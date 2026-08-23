@@ -20,6 +20,24 @@ Follow New York BitDevs on:
 ## Presentation
 -
 
+## Hot Stuff
+### Coldcard Hack
+- [Full panic - one of my wallets was drained](https://www.reddit.com/r/Bitcoin/comments/1vatgl4)
+- [Technical Deep Dive into the Entropy Issue](https://blog.coinkite.com/entropy-technical-backgrounder/)
+- [Someone tried to prompt inject the COLDCARD attacker agents](https://x.com/julianor/status/2083272916125315553)
+- [Traced Wave 1 of the Coldcard drain](https://x.com/PraveenPerera/status/2087936252230140278)
+- [Analysis of ~600 BTC moved in 15 minutes](https://x.com/Rob1Ham/status/2082896614218203616)
+- [People are using Slipstream to save their coins](https://x.com/PortlandHODL/status/2083291086412538136)
+- [Boltz and ZeusLSP temporarily shut down swap services](https://stacker.news/items/1539276)
+
+### BIP110 / Knots
+- [BIP110 Late-Upgrade Chainstate Validation Gap](https://blockslop.dev/)
+- [RIP-110: every Bitcoin transaction is a JPEG](https://x.com/lifofifo/status/2081456509825810794)
+- [BIP 110: update status to closed](https://groups.google.com/g/bitcoindev/c/b_aV3JUtUqg)
+- [BIP-110: Clarify P2A exemption in rule 3 requires an empty witness stack](https://github.com/bitcoin/bips/pull/2225)
+- [Motion to remove Luke Dashjr from BIP Editors](https://groups.google.com/g/bitcoindev/c/knbv3MFwlvU)
+- [process: Remove Luke from BIP Editors](https://github.com/bitcoin/bips/pull/2248)
+
 ## Mailing Lists, Meetings and Bitcoin Optech
 ### Mailing Lists
 #### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
@@ -29,8 +47,6 @@ Follow New York BitDevs on:
 - [static-pie release binaries available for testing](https://groups.google.com/g/bitcoindev/c/UgGHs-_YGvw)
 - [(BIP Proposal) Stale Tip Relay](https://groups.google.com/g/bitcoindev/c/AwOPNxF15mU)
 - [Quantum Recovery Of Hashed Address Secured Coins With No Confiscatory Risk](https://groups.google.com/g/bitcoindev/c/gtxpSxgG7E4)
-- [Motion to remove Luke Dashjr from BIP Editors](https://groups.google.com/g/bitcoindev/c/knbv3MFwlvU)
-- [BIP 110: update status to closed](https://groups.google.com/g/bitcoindev/c/b_aV3JUtUqg)
 - [(BIP Proposal) rawtr() Output Script Descriptors](https://groups.google.com/g/bitcoindev/c/CCZN_qQ5C1s)
 - [Bitcoin Resilience Presentations — August 5](https://groups.google.com/g/bitcoindev/c/HBk40P9o6y0)
 - [BIP draft: CISA for Taproot Key Path Spends](https://groups.google.com/g/bitcoindev/c/1XH6sBLWZuA)
@@ -95,22 +111,16 @@ Follow New York BitDevs on:
 
 
 ## Network Data
-- [Analysis of ~600 BTC moved in 15 minutes](https://x.com/Rob1Ham/status/2082896614218203616)
 - [Pesquisa Dashboard](https://pesquisa.hacknodes.xyz/)
 - [Your Node Tracker Measures Its Own Infrastructure, Not the Network](https://hacknodes.com/en/blog/bitcoin-node-count-infrastructure-en/)
 
 ## CVEs and Research
 ### Research
-- [BIP110 Late-Upgrade Chainstate Validation Gap](https://blockslop.dev/)
 - [Bitcoin Mempool Linearization](https://arxiv.org/abs/2607.23787)
 - [Some thoughts about Anthropic's new cryptanalysis results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)
 - [Structural slop problem](https://gist.github.com/dergoegge/84a77eb85d90ca5cb70c60481c3e8f40)
 
 ### InfoSec
-- [Full panic - one of my wallets was drained](https://www.reddit.com/r/Bitcoin/comments/1vatgl4)
-- [Technical Deep Dive into the Entropy Issue](https://blog.coinkite.com/entropy-technical-backgrounder/)
-- [Someone tried to prompt inject the COLDCARD attacker agents](https://x.com/julianor/status/2083272916125315553)
-- [Traced Wave 1 of the Coldcard drain](https://x.com/PraveenPerera/status/2087936252230140278)
 - [Critical vulnerability being actively exploited on BTCPay Server](https://x.com/BtcpayServer/status/2085755643659522240)
 - [Hackers exploit macOS Screen Sharing flaw to deploy Monero miner](https://x.com/BleepinComputer/status/2088279524702109712)
 - [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
@@ -318,8 +328,6 @@ Follow New York BitDevs on:
 ### [BIPs](https://github.com/bitcoin/bips)
 - [BIP85: add Nostr application](https://github.com/bitcoin/bips/pull/2126)
 - [BIP375: correctly detect SegWit v2+ witness programs](https://github.com/bitcoin/bips/pull/2253)
-- [process: Remove Luke from BIP Editors](https://github.com/bitcoin/bips/pull/2248)
-- [BIP-110: Clarify P2A exemption in rule 3 requires an empty witness stack](https://github.com/bitcoin/bips/pull/2225)
 - [BIP155: mention IPv4-in-IPv6 range MUST NOT be sent within IPV6](https://github.com/bitcoin/bips/pull/2234)
 - [bip360: correct the claimed P2MR witness size saving](https://github.com/bitcoin/bips/pull/2223)
 - [bip360: add python example impl, drop Rust/JS ones; test vector fixes](https://github.com/bitcoin/bips/pull/2202)
@@ -352,12 +360,9 @@ Follow New York BitDevs on:
 ## Miscellaneous
 - [CJP protests: India tells GitHub to block Bitchat app, Jack Dorsey leaks notice](https://www.indiatoday.in/technology/news/story/cjp-protests-india-tells-github-to-block-bitchat-app-jack-dorsey-leaks-notice-2955199-2026-07-24)
 - [Proposal for Assembly 2026: Disallow cryptocurrency projects](https://codeberg.org/Codeberg/org/pulls/1254)
-- [RIP-110: every Bitcoin transaction is a JPEG](https://x.com/lifofifo/status/2081456509825810794)
 - [Financial Privacy Is Rare Common Ground Among Americans](https://www.btcpolicy.org/articles/financial-privacy-rare-common-ground-americans-survey)
 - [Bitcoin Adoption Index — Cornell](https://cornell-btpi-bitcoin-adoption-study.vercel.app/)
 - [Nation-State Bitcoin Adoption Report: 2025](https://jan3.com/blog/nation-state-bitcoin-adoption-report-2025)
-- [People are using Slipstream to save their coins](https://x.com/PortlandHODL/status/2083291086412538136)
-- [Boltz and ZeusLSP temporarily shut down swap services](https://stacker.news/items/1539276)
 - [Solving Bitcoin's Self-Custody Trilemma](https://lu.ke/self-custody-trilemma)
 - [qml gui fuzzer](https://drive.google.com/file/d/1ioXLPUTvnxi9oo1gn4Hb6ggHsXVb26KY/view)
 - [New York Gubernatorial Candidate Blakeman Wants To End The BitLicense](https://www.forbes.com/sites/frankcorva/2026/08/13/new-york-gubernatorial-candidate-blakeman-wants-to-end-the-bitlicense/)

@@ -17,11 +17,10 @@ Follow New York BitDevs on:
 - [BlueSky](https://bsky.app/profile/bitdevsnyc.bsky.social)
 - nostr: `npub1nydevscv0slx9eyr0chkkdgzqfhtp4guk039akhq6g9fnsrf6lcsup3hqs`
 
-## Presentation
--
 
-## Hot Stuff
+## 🔥 Hot Stuff 🔥
 ### Coldcard Hack
+- [CoinKite security status](https://coldcard.com/security/status)
 - [Full panic - one of my wallets was drained](https://www.reddit.com/r/Bitcoin/comments/1vatgl4)
 - [Technical Deep Dive into the Entropy Issue](https://blog.coinkite.com/entropy-technical-backgrounder/)
 - [Someone tried to prompt inject the COLDCARD attacker agents](https://x.com/julianor/status/2083272916125315553)
@@ -86,7 +85,6 @@ Follow New York BitDevs on:
 
 
 ### Meetings
-- [Bitcoin PR Review Club](https://bitcoincore.reviews)
 
 - Bitcoin Core general developer meetings
     - [July 16](https://www.erisian.com.au/bitcoin-core-dev/log-2026-07-16.html#l-184)
@@ -112,7 +110,7 @@ Follow New York BitDevs on:
 
 ## Network Data
 - [Pesquisa Dashboard](https://pesquisa.hacknodes.xyz/)
-- [Your Node Tracker Measures Its Own Infrastructure, Not the Network](https://hacknodes.com/en/blog/bitcoin-node-count-infrastructure-en/)
+- [Logbook: Measuring the Bitcoin Network With Our Own Crawler](https://hacknodes.com/en/blog/bitcoin-node-count-infrastructure-en/)
 
 ## CVEs and Research
 ### Research
@@ -206,7 +204,7 @@ Follow New York BitDevs on:
 - [units: Restore the +1 in relative locktime satisfied by height](https://github.com/rust-bitcoin/rust-bitcoin/pull/6640)
 - [consensus_encoding: Loosen `serde_as_consensus` trait bounds](https://github.com/rust-bitcoin/rust-bitcoin/pull/6629)
 - [primitives: Add fmt traits for `WitnessVersion`](https://github.com/rust-bitcoin/rust-bitcoin/pull/6621)
-- [units: Simplify checked_* ops and serde Option<T> serialization](https://github.com/rust-bitcoin/rust-bitcoin/pull/6581)
+- [units: Simplify checked_* ops and serde serialization](https://github.com/rust-bitcoin/rust-bitcoin/pull/6581)
 - [Change ScriptBuf::default to call ScriptBuf::new](https://github.com/rust-bitcoin/rust-bitcoin/pull/6620)
 - [Add `impl Clone for Box<{custom DST}>`](https://github.com/rust-bitcoin/rust-bitcoin/pull/6571)
 - [primitives: Add `Hash` derive to `Opcode`](https://github.com/rust-bitcoin/rust-bitcoin/pull/6622)

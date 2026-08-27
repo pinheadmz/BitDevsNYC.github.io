@@ -122,6 +122,15 @@ Follow New York BitDevs on:
 - [Critical vulnerability being actively exploited on BTCPay Server](https://x.com/BtcpayServer/status/2085755643659522240)
 - [Hackers exploit macOS Screen Sharing flaw to deploy Monero miner](https://x.com/BleepinComputer/status/2088279524702109712)
 - [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals)
+- [Maya Protocol halts MAYAChain after $1.7M Bitcoin exploit](https://decrypt.co/375976/maya-protocol-halts-network-bitcoin-exploit)
+- [BitBox discloses two severe hardware wallet vulnerabilities](https://blog.bitbox.swiss/en/bitbox-08-2026-dixence-update/)
+- [Trezor customer data exposed in ShipMonk shipping provider incident](https://trezor.io/blog/news/recent-customer-data-exposed-in-shipping-provider-incident)
+- [SafePal software & hardware wallet data breach](https://thecybersecguru.com/news/safepal-data-breach-39798-customers/)
+- [Bits of Gold exchange breached, 200k customers' data exposed](https://blog.bitsofgold.co.il/security-update-august-26/)
+- [Wasabi Wallet "backdoor" exploit](https://github.com/WalletWasabi/WalletWasabi/issues/14410)
+- [Fake AML wallet-checking sites trick users into approving malicious transactions](https://hackread.com/fake-aml-sites-crypto-approving-malicious-transactions/)
+- [Yubikey Windows exploit presented at Black Hat USA 2026](https://specterops.io/wp-content/uploads/sites/3/2026/08/Pass-the-Passkey_A4_v2.pdf)
+- [JoinMarket directory nick-to-key mapping can be hijacked by any peer](https://github.com/joinmarket-ng/joinmarket-ng/issues/577)
 
 ## Pull Requests and repo updates
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
@@ -348,12 +357,19 @@ Follow New York BitDevs on:
 
 ## New Releases
 - [Announcing Wavelength: Bitcoin on Easy Mode for Agents and Humans](https://lightning.engineering/posts/2026-07-21-wavelength-launch/)
+- [ZEUS v13.2.0](https://zeusln.com/blog/new-release-zeus-v13-2-0/)
+- [Fedimint v0.11.2 and v0.10.1 security releases](https://x.com/fedimint/status/2087940664184942892)
+- [Glow: a bitcoin app for everyone, built on the Breez SDK](https://breez.technology/glow)
+- [Flint: a BTCPay Server Lightning plugin](https://github.com/sethforprivacy/flint)
+- [Arké: an iOS wallet implementing the Ark protocol](https://arke.cash/)
+- [rbitcoin: a Bitcoin full node in Rust for production server-side use](https://rbitcoin.org/)
 
 ## Events and Podcasts
 -
 
 ## Mining
--
+- [256 Foundation highlights RY3T Nova, first mining product on Mujina firmware](https://www.256foundation.org/newsroom/ry3t-nova)
+- [Bitcoin mining could absorb 83% of Ireland's curtailed wind energy](https://www.sciencedirect.com/science/article/pii/S0140988326003336)
 
 ## Miscellaneous
 - [CJP protests: India tells GitHub to block Bitchat app, Jack Dorsey leaks notice](https://www.indiatoday.in/technology/news/story/cjp-protests-india-tells-github-to-block-bitchat-app-jack-dorsey-leaks-notice-2955199-2026-07-24)

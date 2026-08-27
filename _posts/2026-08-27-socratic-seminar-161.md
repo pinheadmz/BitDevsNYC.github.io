@@ -41,6 +41,7 @@ Follow New York BitDevs on:
 ### Mailing Lists
 #### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 - [DropKick ⚽️ - A minimal commit/reveal PQ rescue protocol](https://groups.google.com/g/bitcoindev/c/6SqWPfBf-p0)
+- [post-quantum: Lifeboat & Lifejacket PQ rescue protocol](https://github.com/adiabat/lifeboat/blob/main/lifeboat.md)
 - [(BIP Proposal) Anti-Fee-Sniping with LockTime](https://groups.google.com/g/bitcoindev/c/ZAFziRvnQYI)
 - [post-quantum: solution ideas to "tripwire"game-theory issues + a certificate-based rescue protocol](https://groups.google.com/g/bitcoindev/c/rMri6STNvtQ)
 - [static-pie release binaries available for testing](https://groups.google.com/g/bitcoindev/c/UgGHs-_YGvw)
